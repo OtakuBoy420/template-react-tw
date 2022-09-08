@@ -7,9 +7,8 @@ module.exports = {
       colors: {
         primary: {
           color: "var(--primary-color)",
-          background: "var(--primary-background)",
           text: "var(--primary-text)",
-          darker: "var(--primary-darker)",
+          background: "var(--primary-background)",
         },
       },
       fontFamily: {
